@@ -1,7 +1,5 @@
 # 004 Exploratory Data Analysis
 
-## Author: Fernando Barranco Rodríguez
-
 #### Exploratory Data Analysis Course Project 1
 
 The goal here is simply to examine how household energy usage varies over a 2-day period in February, 2007 (we will only be using data from the dates 2007-02-01 and 2007-02-02). The task is to reconstruct four plots, using the base plotting system.
